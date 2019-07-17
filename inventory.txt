@@ -1,0 +1,4 @@
+name, price
+apple, 0.25
+banana, 0.1
+cookie, 1.0
